@@ -1,10 +1,11 @@
 # UML Portfolio 
 
-В этом проекте собраны примеры моделирования процессов с использованием UML.
-Цель - продемонстрировать навыки систематизации и визуализации бизнес-процессов.
+This project contains examples of process modeling using UML.  
+The goal is to demonstrate the skills of systematization and visualization of business processes.  
 
 ## Содержание
 
-- Use Case: Запись ученика на онлайн-урок и действия преподавателя (онлайн-платформа для изучения языков)
+- Use Case: Enrolling a student in an online lesson and a teacher's actions (online language learning platform)  
+- Activity: Paying for an online lesson
 
-Все примеры являются учебнымии и основаны на обобщённых сценариях из сфер образования. 
+All examples are educational and based on generalized scenarios from the education domains.
